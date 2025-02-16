@@ -1,5 +1,5 @@
-# LEAD-SCORING-CASE-STUDY-Done-by-Sushmita-Roy-Aneeket-Upadhyay-Buvana-Usha-Rani
-LEAD SCORING CASE STUDY: Done by Sushmita Roy, Aneeket Upadhyay &amp; Buvana Usha Rani
+# LEAD-SCORING-CASE-STUDY-Done-by-Sushmita-Roy-Chetna-Turankar-Utteya-Pal
+LEAD SCORING CASE STUDY: Done by Sushmita Roy, Chetna Turankar and Utteya Pal
 ## Contents:
 # 1. Jupyter file
 # 2. Powerpoint presentation of the case study
